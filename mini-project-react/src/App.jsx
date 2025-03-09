@@ -4,7 +4,6 @@ import WeatherApp from "./WeatherApp";
 function App() {
   return (
     <>
-      <p>hi</p>
       <WeatherApp />
     </>
   );
